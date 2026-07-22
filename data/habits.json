@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Exercise",
+        "period": "Daily",
+        "owner": "default",
+        "created_at": "2026-07-19",
+        "completed_dates": [
+            "2026-07-19"
+        ]
+    },
+    {
+        "name": "Exercise",
+        "period": "Daily",
+        "owner": "Tatenda",
+        "created_at": "2026-07-19",
+        "completed_dates": [
+            "2026-07-19"
+        ]
+    },
+    {
+        "name": "drinking water",
+        "period": "Daily",
+        "owner": "Tatenda",
+        "created_at": "2026-07-20",
+        "completed_dates": []
+    }
+]
